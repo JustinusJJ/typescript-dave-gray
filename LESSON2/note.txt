@@ -1,0 +1,20 @@
+
+TypeScript is a Strongly Typed Language.
+TypeScript needs type specification.
+
+JavaScript is a Loosely Type Language.
+or weakly typed.
+
+Strongly Typed can be either
+statically or dynamically typed.
+
+TS statically typed,
+so cek di compile time.
+
+JS dynamically typed,
+so data types check on run time.
+
+TS benefits:
+- Self-documenting. ???
+- Catch Errors in dev.
+- Great for teams. ???
